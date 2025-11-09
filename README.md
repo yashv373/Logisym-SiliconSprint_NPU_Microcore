@@ -7,6 +7,8 @@ Team: Yashvardhan Singh, Megh Giri, and Siddharth Penumatsa
 
 - Try the simulation in EDAPlayground: https://edaplayground.com/x/Pe47
 
+- Video Demonstration: https://youtu.be/bjhxSldVjr8?si=8ZV-xbI3zX_aJoAH
+
 <img width="1629" height="480" alt="image" src="https://github.com/user-attachments/assets/cb1efddd-a8e6-4b03-a2f1-1e3d0434d45f" />
 
 ---
