@@ -1,5 +1,6 @@
 # Logisym-SiliconSprint_NPU_Microcore.
 Our submission for the Silicon Sprint competition round 2 and finals, by IEEE NIT Surathkal and RV College of Engg. , sponsored by Tenstorrent.
+Team: Yashvardhan Singh, Megh Giri, and Siddharth Penumatsa
 
 - PPT Viewing Link: https://www.canva.com/design/DAG4GbnyW-4/KLqI6IlAsPWu63swpBeNJQ/view?utm_content=DAG4GbnyW-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c85803f44
 
