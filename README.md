@@ -4,6 +4,9 @@ Our submission for the Silicon Sprint competition round 2 and finals, by IEEE NI
 - PPT Viewing Link: https://www.canva.com/design/DAG4GbnyW-4/KLqI6IlAsPWu63swpBeNJQ/view?utm_content=DAG4GbnyW-4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h5c85803f44
 
 - Try the simulation in EDAPlayground: https://edaplayground.com/x/Pe47
+
+<img width="1629" height="480" alt="image" src="https://github.com/user-attachments/assets/cb1efddd-a8e6-4b03-a2f1-1e3d0434d45f" />
+
 ---
 
 ### Synthesis
