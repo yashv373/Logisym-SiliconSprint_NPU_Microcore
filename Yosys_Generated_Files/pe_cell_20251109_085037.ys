@@ -1,0 +1,8 @@
+read_verilog -sv D:\RTL_VSC\work\design.sv
+hierarchy -check -top pe_cell
+proc; opt
+fsm; opt
+memory; opt; techmap; opt
+synth -top pe_cell
+tee -o D:\RTL_Reports\pe_cell_20251109_085037_area.rpt stat -tech cmos
+write_json D:\RTL_Reports\pe_cell_20251109_085037_netlist.json

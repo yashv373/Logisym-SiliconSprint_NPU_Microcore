@@ -1,0 +1,29 @@
+
+12. Printing statistics.
+
+=== pe_cell ===
+
+        +----------Local Count, excluding submodules.
+        | 
+      623 wires
+      689 wire bits
+       12 public wires
+       59 public wire bits
+       12 ports
+       59 port bits
+      668 cells
+       30   $_ANDNOT_
+       28   $_AND_
+       20   $_DFFE_PP0P_
+       18   $_DFF_PP0_
+        1   $_MUX_
+       40   $_NAND_
+      257   $_NOR_
+       27   $_NOT_
+       42   $_ORNOT_
+       10   $_OR_
+      171   $_XNOR_
+       24   $_XOR_
+
+   Estimated number of transistors:       4254+
+
